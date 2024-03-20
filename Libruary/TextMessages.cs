@@ -193,7 +193,7 @@ namespace Library
                     Directory.GetParent(
                     Directory.GetParent(
                     Directory.GetCurrentDirectory()).FullName)
-                    .FullName).FullName).FullName+"\\var\\var.txt";
+                    .FullName).FullName).FullName + "\\var\\var.txt";
         }
     }
 }
