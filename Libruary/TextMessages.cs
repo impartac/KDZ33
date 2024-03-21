@@ -183,7 +183,7 @@ namespace Library
         internal string UpdateHandle(Update update) 
         {
             return($"chat with " +
-                $"{(update.Message is null ? update.MyChatMember : update.Message.Chat.FirstName)} ," +
+                $"{(update.Message is null ?"null": update.Message.Chat.FirstName)} ," +
                 $" message type = {update.Type} ," +
                 $" date = {DateTime.Now}");
         }
@@ -193,7 +193,7 @@ namespace Library
                     Directory.GetParent(
                     Directory.GetParent(
                     Directory.GetCurrentDirectory()).FullName)
-                    .FullName).FullName).FullName+"\\var\\var.txt";
+                    .FullName).FullName).FullName + "\\var\\var.txt";
         }
     }
 }
