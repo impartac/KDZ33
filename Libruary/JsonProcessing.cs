@@ -31,13 +31,13 @@ namespace Library
         }
 
 
-        public override List<Monument?>? Read(StreamReader sr)
+        public override List<Monument> Read(StreamReader sr)
         {
             List<Monument> data = new List<Monument>();
             try
             {
                 string s = sr.ReadToEnd();
-                data = JsonSerializer.Deserialize<List<Monument?>?>(s);
+                data = JsonSerializer.Deserialize<List<Monument>>(s);
             }
             catch (Exception) 
             {
