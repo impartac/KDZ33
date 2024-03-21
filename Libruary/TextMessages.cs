@@ -183,7 +183,11 @@ namespace Library
         internal string UpdateHandle(Update update) 
         {
             return($"chat with " +
+<<<<<<< HEAD
                 $"{(update.Message is null ?"null": update.Message.Chat.FirstName)} ," +
+=======
+                $"{(update.Message is null ? update.CallbackQuery.From : update.Message.Chat.FirstName)} ," +
+>>>>>>> d5d8497082f0d889fcdf6dc88d2c00faffc65f50
                 $" message type = {update.Type} ," +
                 $" date = {DateTime.Now}");
         }
