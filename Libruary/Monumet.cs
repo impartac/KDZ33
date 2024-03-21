@@ -11,45 +11,66 @@ namespace Library
     /// </summary>
     public class Monument
     {
-        
+        [JsonRequired]
         [JsonPropertyName("ID")]
         public int? Id { get; set; }
 
+        [JsonRequired]
         [JsonPropertyName("SculpName")]
         public string? SculpName { get; set; }
 
+        [JsonRequired]
         [JsonPropertyName("Photo")]
         public string? Photo { get; set; }
 
+        [JsonRequired]
         [JsonPropertyName("Author")]
+
         public string? Author { get; set; }
 
+        [JsonRequired]
         [JsonPropertyName("ManufactYear")]
+
         public int? ManufactYear { get; set; }
 
+        [JsonRequired]
         [JsonPropertyName("Material")]
+
         public string? Material { get; set; }
 
-
+        [JsonRequired]
         [JsonPropertyName("Description")]
+
         public string? Description { get; set; }
 
+        [JsonRequired]
         [JsonPropertyName("LocationPlace")]
+        
         public string? LocationPlace { get; set; }
 
+        [JsonRequired]
         [JsonPropertyName("Longitude_WGS84")]
+
         public double? LongitudeWGS84 { get; set; }
 
+        [JsonRequired]
         [JsonPropertyName("Latitude_WGS84")]
+
         public double? LatitudeWGS84 { get; set; }
 
+        [JsonRequired]
         [JsonPropertyName("global_id")]
+
         public long? GlobalId { get; set; }
 
+        [JsonRequired]
         [JsonPropertyName("geodata_center")]
+
         public string? GeodataCenter { get; set; }
 
+        [JsonRequired]
         [JsonPropertyName("geoarea")]
+
         public string? GeoArea { get; set; }
 
         public Monument(string[] fields) 
