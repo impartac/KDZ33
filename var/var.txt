@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 21.03.2024 19:27:27: [Information] - This is an information log message.
 21.03.2024 19:29:41: [Information] - chat with Matvej , message type = Message , date = 21.03.2024 19:29:32
 21.03.2024 19:29:53: [Information] - chat with  , message type = CallbackQuery , date = 21.03.2024 19:29:53
@@ -88,3 +89,166 @@
 21.03.2024 20:23:53: [Information] - chat with Matvej , message type = Message , date = 21.03.2024 20:23:53
 21.03.2024 20:23:55: [Information] - chat with @zesadesamurai (528482021) , message type = CallbackQuery , date = 21.03.2024 20:23:55
 21.03.2024 20:24:34: [Information] - chat with Matvej , message type = Message , date = 21.03.2024 20:24:34
+=======
+chat with  , message type = CallbackQuery , date = 19.03.2024 15:42:23
+chat with Matvej , message type = Message , date = 19.03.2024 15:43:23
+chat with  , message type = CallbackQuery , date = 19.03.2024 15:43:24
+chat with Matvej , message type = Message , date = 19.03.2024 15:43:32
+chat with  , message type = CallbackQuery , date = 19.03.2024 15:43:38
+chat with  , message type = CallbackQuery , date = 19.03.2024 15:43:39
+chat with Matvej , message type = Message , date = 19.03.2024 15:43:48
+chat with  , message type = CallbackQuery , date = 19.03.2024 15:43:49
+chat with Matvej , message type = Message , date = 19.03.2024 16:25:53
+chat with  , message type = CallbackQuery , date = 19.03.2024 16:25:55
+chat with Matvej , message type = Message , date = 19.03.2024 16:26:02
+chat with  , message type = CallbackQuery , date = 19.03.2024 16:26:05
+chat with  , message type = CallbackQuery , date = 19.03.2024 16:26:23
+chat with Matvej , message type = Message , date = 19.03.2024 16:27:40
+chat with  , message type = CallbackQuery , date = 19.03.2024 16:27:41
+chat with Matvej , message type = Message , date = 19.03.2024 16:27:56
+chat with  , message type = CallbackQuery , date = 19.03.2024 16:27:58
+chat with Matvej , message type = Message , date = 19.03.2024 16:29:10
+chat with  , message type = CallbackQuery , date = 19.03.2024 16:29:12
+chat with Matvej , message type = Message , date = 19.03.2024 16:29:19
+chat with  , message type = CallbackQuery , date = 19.03.2024 16:29:22
+chat with  , message type = CallbackQuery , date = 19.03.2024 16:29:42
+chat with Matvej , message type = Message , date = 19.03.2024 16:29:47
+chat with  , message type = CallbackQuery , date = 19.03.2024 16:29:50
+chat with Matvej , message type = Message , date = 19.03.2024 17:43:54
+chat with  , message type = CallbackQuery , date = 19.03.2024 17:43:57
+chat with Matvej , message type = Message , date = 19.03.2024 17:44:07
+chat with  , message type = CallbackQuery , date = 19.03.2024 17:44:33
+chat with  , message type = CallbackQuery , date = 19.03.2024 17:44:34
+chat with Matvej , message type = Message , date = 19.03.2024 17:44:37
+chat with Matvej , message type = Message , date = 19.03.2024 17:45:34
+chat with  , message type = CallbackQuery , date = 19.03.2024 17:45:50
+chat with Matvej , message type = Message , date = 19.03.2024 17:45:57
+chat with  , message type = CallbackQuery , date = 19.03.2024 17:47:20
+chat with  , message type = CallbackQuery , date = 19.03.2024 17:47:21
+chat with Matvej , message type = Message , date = 19.03.2024 17:47:43
+chat with Matvej , message type = Message , date = 19.03.2024 17:48:37
+chat with Matvej , message type = Message , date = 19.03.2024 17:48:41
+chat with  , message type = CallbackQuery , date = 19.03.2024 17:48:43
+chat with Matvej , message type = Message , date = 19.03.2024 17:48:50
+chat with  , message type = CallbackQuery , date = 19.03.2024 17:48:55
+chat with  , message type = CallbackQuery , date = 19.03.2024 17:48:57
+chat with Matvej , message type = Message , date = 19.03.2024 17:49:03
+chat with Matvej , message type = Message , date = 19.03.2024 17:49:34
+chat with  , message type = CallbackQuery , date = 19.03.2024 17:49:37
+chat with Matvej , message type = Message , date = 19.03.2024 17:49:44
+chat with  , message type = CallbackQuery , date = 19.03.2024 17:49:45
+chat with  , message type = CallbackQuery , date = 19.03.2024 17:49:50
+chat with  , message type = CallbackQuery , date = 19.03.2024 17:49:54
+chat with Matvej , message type = Message , date = 19.03.2024 17:50:19
+chat with Matvej , message type = Message , date = 19.03.2024 17:51:41
+chat with  , message type = CallbackQuery , date = 19.03.2024 17:51:42
+chat with Matvej , message type = Message , date = 19.03.2024 17:51:51
+chat with  , message type = CallbackQuery , date = 19.03.2024 17:51:55
+chat with  , message type = CallbackQuery , date = 19.03.2024 17:51:56
+chat with Matvej , message type = Message , date = 19.03.2024 17:52:20
+chat with Matvej , message type = Message , date = 19.03.2024 17:54:07
+chat with  , message type = CallbackQuery , date = 19.03.2024 17:54:45
+chat with Matvej , message type = Message , date = 19.03.2024 17:55:24
+chat with  , message type = CallbackQuery , date = 19.03.2024 17:55:26
+chat with Matvej , message type = Message , date = 19.03.2024 17:55:34
+chat with  , message type = CallbackQuery , date = 19.03.2024 17:55:48
+chat with  , message type = CallbackQuery , date = 19.03.2024 17:55:49
+chat with Matvej , message type = Message , date = 19.03.2024 17:55:59
+chat with Matvej , message type = Message , date = 19.03.2024 17:56:04
+chat with Matvej , message type = Message , date = 19.03.2024 17:56:40
+chat with  , message type = CallbackQuery , date = 19.03.2024 17:56:43
+chat with Matvej , message type = Message , date = 19.03.2024 17:56:53
+chat with  , message type = CallbackQuery , date = 19.03.2024 17:56:56
+chat with  , message type = CallbackQuery , date = 19.03.2024 17:56:58
+chat with Matvej , message type = Message , date = 19.03.2024 17:57:02
+chat with Matvej , message type = Message , date = 19.03.2024 17:57:26
+chat with  , message type = CallbackQuery , date = 19.03.2024 17:57:28
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:32:53
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:32:59
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:33:04
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:33:07
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:33:10
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:33:17
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:33:25
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:33:35
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:33:42
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:33:48
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:34:00
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:34:18
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:34:29
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:34:33
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:34:36
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:34:42
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:34:46
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:34:50
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:35:36
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:35:42
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:35:52
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:35:58
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:35:58
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:36:05
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:36:13
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:36:19
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:37:09
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:37:21
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:37:23
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:37:29
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:37:30
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:37:36
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:37:39
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:37:40
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:37:48
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:37:55
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:42:09
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:42:12
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:42:20
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:42:22
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:42:24
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:42:27
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:42:28
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:43:32
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:43:34
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:43:41
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:43:42
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:43:44
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:43:45
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:43:46
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:44:31
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:44:31
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:44:41
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:44:42
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:44:48
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:44:50
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:44:52
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:44:54
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:44:56
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:45:04
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:45:06
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:45:08
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:45:14
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:45:17
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:45:18
+chat with katharsys/Konstantin Semischastnov , message type = Message , date = 19.03.2024 18:45:20
+chat with  , message type = CallbackQuery , date = 19.03.2024 18:45:23
+chat with Matvej , message type = Message , date = 19.03.2024 19:18:38
+chat with Matvej , message type = Message , date = 19.03.2024 19:18:39
+chat with Matvej , message type = Message , date = 19.03.2024 19:43:48
+chat with Matvej , message type = Message , date = 19.03.2024 19:43:49
+chat with Matvej , message type = Message , date = 19.03.2024 19:43:59
+chat with Matvej , message type = Message , date = 20.03.2024 15:54:51
+chat with  , message type = CallbackQuery , date = 20.03.2024 15:55:18
+chat with Matvej , message type = Message , date = 20.03.2024 15:55:41
+chat with  , message type = CallbackQuery , date = 20.03.2024 15:55:42
+chat with  , message type = CallbackQuery , date = 20.03.2024 15:55:43
+chat with  , message type = CallbackQuery , date = 20.03.2024 15:55:45
+chat with Matvej , message type = Message , date = 20.03.2024 15:55:56
+chat with Matvej , message type = Message , date = 20.03.2024 15:55:57
+chat with  , message type = CallbackQuery , date = 20.03.2024 15:56:01
+chat with Matvej , message type = Message , date = 20.03.2024 15:56:13
+chat with  , message type = CallbackQuery , date = 20.03.2024 15:56:16
+chat with  , message type = CallbackQuery , date = 20.03.2024 15:56:25
+chat with Matvej , message type = Message , date = 20.03.2024 15:56:28
+chat with Matvej , message type = Message , date = 20.03.2024 15:56:32
+chat with  , message type = CallbackQuery , date = 20.03.2024 15:57:07
+chat with Matvej , message type = Message , date = 20.03.2024 15:57:16
+>>>>>>> 54262fa8a202b62d35eb5b833bb53f5f74781d52
