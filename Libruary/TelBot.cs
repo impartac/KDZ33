@@ -7,6 +7,7 @@ using Microsoft.Extensions.Logging;
 using CsvHelper;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.FileProviders;
+using Libruary;
 
 namespace Library
 {
@@ -53,7 +54,7 @@ namespace Library
         Dictionary<ChatId, List<Monument?>?> usersData = new Dictionary<ChatId, List<Monument?>?>();
         Dictionary<ChatId, List<Monument?>?> usersNewData = new Dictionary<ChatId, List<Monument?>?>();
         DecompositionBot dec = new DecompositionBot();
-        StreamWriter loggerFile;
+        ILogger logger = null;
 
         public TelBot() { }
 
@@ -75,9 +76,11 @@ namespace Library
             );
 
             User me = await _bot.GetMeAsync();
-
+                
             Console.WriteLine($"Start listening for @{me.Username}");
             Console.ReadLine();
+            
+
             cts.Cancel();
 
         }
@@ -87,9 +90,10 @@ namespace Library
                                     Update update,
                                     CancellationToken cancellationToken)
         {
-            using StreamWriter loggerFile = new StreamWriter(textMessages.GetPath(),append:true);
-            loggerFile.WriteLine(textMessages.UpdateHandle(update));
-            loggerFile.Dispose();
+            ILoggerFactory loggerFactory = new LoggerFactory()
+                .AddFile(textMessages.GetPath());
+            logger = loggerFactory.CreateLogger<TelBot>();
+            logger.LogInformation(textMessages.UpdateHandle(update));
             ChatId chatId= null;
             // В зависимости от типа обновления, определяют id чата.
             switch (update.Type)
